@@ -1,0 +1,16 @@
+CM0001|C0001|D0001|A0002|2025-08-28 12:00|Cough reduced after consultation, still mild sore throat at night
+CM0002|C0001|S0001|A0002|2025-08-28 12:05|Staff explained medication instructions clearly, easy to follow
+CM0003|C0002|D0002|A0003|2025-08-27 12:15|Child’s fever subsided but appetite still low
+CM0004|C0003|D0001|A0004|2025-08-26 15:10|Tooth pain less intense, but swelling on gums persists
+CM0005|C0004|S0002|A0005|2025-08-31 09:00|Please confirm vaccine dosage is suitable for my age
+CM0006|C0002|D0002|A0010|2025-08-24 13:10|Allergy rash reduced, slight itching remains on arms
+CM0007|C0005|D0003|A0007|2025-08-25 10:30|Teeth feel sensitive after cleaning, is this normal?
+CM0008|C0001|D0001|A0012|2025-08-20 10:00|Blood pressure improved, occasional headaches still occur
+CM009|C0004|D0001|A0008|2025-08-29 17:00|Flu symptoms easing, but still experiencing body aches
+
+
+
+CM0010|C0001|D0001|A0015|2025-09-21 16:45|Took care very well
+CM0011|C0001|S0004|A0011|2025-09-22 19:31|Very nice doctor
+CM0012|C0010|D0001|A0016|2025-09-24 13:33|Nice doctor
+CM0013|C0001|D0001|A0011|2025-09-29 16:42|Very nice doctor

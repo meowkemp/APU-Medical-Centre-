@@ -1,0 +1,10 @@
+FB0001|D0001|C0002|A0002|2025-08-28|10:10|General checkup normal, advise hydration
+FB0002|D0002|C0001|A0003|2025-08-27|11:20|Fever reduced, monitor temperature 48h
+FB0003|D0003|C0003|A0007|2025-08-25|09:55|Scaling done, recommend flossing daily
+FB0004|D0002|C0004|A0010|2025-08-24|12:15|Mild allergy, prescribed antihistamine
+FB0005|D0001|C0005|A0012|2025-08-20|09:40|BP stabilized, continue medication
+FB0006|D0001|C0005|A0004|2025-08-26|14:40|Awaiting x-ray before procedure
+FB0007|D0001|C0002|A0008|2025-08-29|16:10|Suspected viral flu, rest recommended
+FB0008|D0002|C0004|A0006|2025-08-29|15:10|Appointment cancelled by patient
+FB0009|D0001|C0003|A0002|2025-08-28|10:12|Provided lifestyle advice
+FB0010|D0003|C0001|A0007|2025-08-25|10:00|No complications observedFB0011|D0001|C0008|A0017|2025-09-29|09:00|High fever because of mosquito bite

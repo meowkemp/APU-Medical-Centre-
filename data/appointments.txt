@@ -1,0 +1,22 @@
+A0001|C0002|B2345678|017-4000002|bob@home|2025-11-07|10:30|Constipation|Dr. Ron|D0005|Credit/Debit Card|Upfront|NA|PENDING|NA
+A0002|C0002|B2345678|017-4000002|bob@home|2025-11-09|14:30|Braces|Dr. Tan|D0003|Cash|After consultation|NA|PENDING|NA
+A0003|C0002|B2345678|017-4000002|bob@home|2025-09-15|10:30|flu|Dr. Lee|D0001|Bank Transfer|After consultation|NA|PENDING|NA
+A0004|C0001|A1234567|017-4000001|alice@home|2025-11-19|17:00|Baby wheezing|Dr. Kumar|D0002|Bank Transfer|After consultation|NA|PENDING|NA
+A0005|C0005|E5678901|017-4000005|emma@home|2025-11-23|15:30|Stomach pain|Dr. Ron|D0005|Credit/Debit Card|Upfront|Wheelchair|PENDING|NA
+A0006|C0004|D4567890|017-4000004|daniel@home|2025-12-16|14:00|Root canal|Dr. Tan|D0003|Bank Transfer|Upfront|NA|PENDING|NA
+A0007|C0004|D4567890|017-4000004|daniel@home|2025-12-09|10:00|Vaccination|Dr. Lee|D0001|Cash|After consultation|NA|PENDING|NA
+A0008|C0003|C3456789|017-4000003|chloe@home|2025-11-17|16:30|Allergy consult for daughter|Dr. Kumar|D0002|eWallet|Upfront|NA|PENDING|NA
+A0009|C0003|C3456789|017-4000003|chloe@home|2025-11-11|18:00|Bleeding nose|Dr. Mila|D0004|Cash|After consultation|NA|PENDING|NA
+A0010|C0001|A1234567|017-4000001|alice@home|2025-12-18|12:30|Scaling|Dr. Tan|D0003|Credit/Debit Card|Upfront|NA|PENDING|NA
+A0011|C0001|A1234567|017-4000001|alice@home|2025-11-12|11:00|Food poisoning|Dr. Lee|D0001|Bank Transfer|After consultation|NA|COMPLETED|NA
+
+A0012|C0008|9012341478764|01279797987|liew@gmail.com|2025-09-22|09:00|Fever|Dr. Lee|D0001|Bank Transfer|After consultation|NA|COMPLETED|NA
+
+A0013|C0009|090223011285|0198768754|anand@gmail.com|2025-09-2025|11:30|Fever|Dr. Lee|D0001|Bank Transfer|After consultation|NA|COMPLETED|NA
+A0014|C0009|090223011285|0198768754|anand@gmail.com|2025-09-22|09:00|I am having diarhhea|Dr. Lee|D0001|Cash|After consultation|NA|PENDING|NA
+
+A0015|C0009|0907788986|0127788676|kiara@gmail.com|2025-09-24|09:00|Fever|Dr. Lee|D0001|Bank Transfer|After consultation|NA|ASSIGNED|NA
+A0016|C0010|090223098786|01722288483|tan@gmail.com|2025-09-24|09:00|Diarhea|Dr. Lee|D0001|Bank Transfer|After consultation|NA|COMPLETED|NA
+
+A0017|C0008|9012341478764|01279797987|liew@gmail.com|2025-09-29|09:00|Fever|Dr. Lee|D0001|Bank Transfer|After consultation|NA|ASSIGNED|NA
+A0018|C0001|A1234567|0174000001|alice@home|2025-09-29|09:00|Knee Pain|Dr. Lee|D0001|Bank Transfer|After consultation|NA|ASSIGNED|NA

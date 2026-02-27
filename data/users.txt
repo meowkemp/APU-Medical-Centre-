@@ -1,0 +1,20 @@
+M0001|MANAGER|Admin Manager|admin@clinic|admin123|0123702809||||
+S0001|STAFF|Angelina|staff1@clinic|staff1|0123702879||||
+S0002|STAFF|Staff Two|staff2@clinic|staff2|0128978667||||
+D0001|DOCTOR|Dr. Lee|doclee@clinic|drlee123|012-3333009|PHYSICIAN|R3||
+D0002|DOCTOR|Dr. Kumar|dockumar@clinic|drkumar123|012-3333002|DERMATOLOGIST|R2||
+D0003|DOCTOR|Dr. Tan|doctan@clinic|drtan123|012-3333003|ONCOLOGIST|R5||
+S0003|STAFF|Hafiz|hafiz@gmail.com|password123|017552288992||||
+S0004|STAFF|Akash|akash@gmail.com|password123|0198989987||||
+S0005|STAFF|Omar|omar@gmail.com|password123|0197788670||||
+S0006|STAFF|Ronaldo|ronaldo@gmail.com|password123|0134567880||||
+C0001|CUSTOMER|Alice Lim|alice@home|alicelim123|0174000001|||A1234567|12 Jalan Mawar, Kuala Lumpur
+C0002|CUSTOMER|Bob Ong|bob@home|bobong123|017-4000002|||B2345678|88 Jalan Teratai, PJ
+C0003|CUSTOMER|Chloe Teh|chloe@home|chloeteh123|017-4000003|||C3456789|5 Jalan Melur, KL
+C0004|CUSTOMER|Daniel Yap|daniel@home|danielyap123|017-4000004|||D4567890|21 Jalan Kenanga, PJ
+C0005|CUSTOMER|Emma Tan|emma@home|emmatan123|017-4000005|||E5678901|9 Jalan Orkid, Shah Alam
+C0006|CUSTOMER|Geetha|geetha@gmail.com|geetha123|0128899849|||740723010567|Taman Melati, Puchong
+C0007|CUSTOMER|Liam|liam@gmail.com|liam123|0189988989|||050301048867|6 Taman Bestari Cemerlang
+C0008|CUSTOMER|Liew|liew@gmail.com|123liew|01279797987|||9012341478764|12 Taman Ehsan
+C0009|CUSTOMER|Tan|tan@gmail.com|tan123|0172209897|||090223098786|21, Jalan Merah, Selangor
+C0010|CUSTOMER|Garuda|garuda@gmail.com|garuda123|01755338984|||090223989874|21, Taman Intan

@@ -1,0 +1,16 @@
+CH0001|C0002|A0002|80.0|Consultation|true|D0001
+CH0002|C0001|A0003|150.0|Pediatric exam|true|D0002
+CH0003|C0003|A0007|200.0|Dental cleaning|false|D0003
+CH0004|C0002|A0010|120.0|Allergy consult|true|D0002
+CH0005|C0004|A0012|60.0|BP review|false|D0001
+CH0006|A0012|19.60|Flu Medicine x3|true|D0001
+CH0007|A0012|12.50|Paracetomol x1|true|D0001
+CH0008|A0003|14.10|Gastrik Medicine x1|false|D0001
+CH0009|A0007|14.50|Paracetomol x1|false|D0001
+CH0010|A0013|32.30|Gastrik Medicine x3|true|D0001
+
+CH0011|A0016|30.00|Paracetomol x4|true|D0001
+
+CH0012|A0003|31.00|Paracetomol x2; Diarhea Medicine x2|false|D0001
+
+CH0013|A0017|38.90|Paracetomol x5; Flu Medicine x2|true|D0001
